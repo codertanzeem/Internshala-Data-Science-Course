@@ -1,2 +1,22 @@
 # Internshala-Data-Science-Course
 This repository is for the skills and certificate I've earned in the Internshala Data-Science Placement Guarantee Course.
+
+
+The program prepares me for a career as a Data Analyst professional by helping me learn:
+
+Exploratory Data Analysis (EDA)
+Data Wrangling
+Data Cleaning
+Practical Statistics (i.e. applying inferential statistics and probability to real-world scenarios, like analyzing A/B tests.)
+SQL for Data Analysis
+Data Visualization to draw meaningful conclusions
+Machine Learning algorithms
+
+
+Technical Skills utilized
+
+MS Excel
+Python
+Tableau
+SQL
+Machine Learning using Python
