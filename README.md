@@ -15,3 +15,13 @@ The program prepares me for a career as a Data Analyst professional by helping m
 * Tableau
 * SQL
 * Machine Learning using Python
+
+## Certificates Earned
+* Advance Excel Training Certificate
+* SQL for Data Analysis Training Certificate
+* Tableau Training Certificate
+* Machine Learning using Python Training Certificate
+* Interview Prepration Training Certificate
+* General Aptitude Training Certificate
+* Data Science Training Completion Certificate from Internshala
+* NSDC/ Skill India Certificate
